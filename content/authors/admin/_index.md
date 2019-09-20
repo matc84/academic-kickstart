@@ -1,41 +1,38 @@
 ---
 # Display name
-name: Nelson Bighetti
+name:  Matthew Connell
 
 # Username (this should match the folder name)
-authors:
+authors:matc84
 - admin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
-
+role: Prospective Data Scientis
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of British Columbia
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include text prediction and making public transportation better.
 
 interests:
-- Artificial Intelligence
+- Chatbots
 - Computational Linguistics
-- Information Retrieval
+- Juggling
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MDS - Master of Data Science
+    institution: University of British Columbia
+    year: 2020
+  - course: BA in Business Administration
+    institution: Trent University
+    year: 2005
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Matthew Connell is a grad student at the University of British Columbia studying data science. His research interests include text prediction and public transportation. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Matthew speaks English and Korean, is a great cook, an okay juggler, and a terrible magician.
