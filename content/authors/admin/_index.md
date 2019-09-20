@@ -3,7 +3,7 @@
 name:  Matthew Connell
 
 # Username (this should match the folder name)
-authors:matc84
+authors:
 - admin
 
 # Is this the primary user of the site?
